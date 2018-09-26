@@ -11,10 +11,13 @@
 </head>
 
 <body>
-  <?php include ('../includes/hero/hero.php'); ?>
+  <!-- Vue appliaction -->
+  <div id='app'>
+  </div>
 
-  <script src="../js/vendor/picturefill.min.js"></script>
-  <script src="../js/vendor/objectFitPolyfill.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="../js/vendor/vue.js"></script>
+  <script src="../vueCompiled/app.js"></script>
   <script src="../js/main.js"></script>
 </body>
 

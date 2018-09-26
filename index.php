@@ -11,12 +11,12 @@
 </head>
 <body>
     <h1>
-      Personal Homepage V2.0
+      Vue Web App Template
     </h1>
 
     <ul>
       <li>
-        <a href="./keyscreens/homepage.php">Homepage</a>
+        <a href="./keyscreens/application.php">Web Application</a>
       </li>
     </ul>
 </body>
